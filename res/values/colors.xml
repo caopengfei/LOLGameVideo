@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#b4afac</color>
+    <color name="bg_bar_top">#6699FF</color>
+    <color name="txt_normal">#000000</color>
+    <color name="txt_gray">#b4afac</color>
+    <color name="txt_bar_top">#FFFFFF</color>
+</resources>
